@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Ainhoa 👋
 
-<!--
-**aiinhoavz/aiinhoavz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-Here are some ideas to get you started:
+💻 Tecnologías:
+- Java
+- Kotlin
+- Angular
+- JavaFX
+- MySQL
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Interesada en el desarrollo de aplicaciones móviles, web y de escritorio.
+
+📍 Madrid, España
+
+🔗 LinkedIn:
+www.linkedin.com/in/ainhoa-vazquez-8b468b3a9
+
+🔗 Proyecto destacado:
+MiHucha
