@@ -15,7 +15,7 @@
 📍 Madrid, España
 
 🔗 LinkedIn:
-www.linkedin.com/in/ainhoa-vazquez-8b468b3a9
+www.linkedin.com/in/ainhoa-aylén-vazquez-zambrini-8b468b3a9
 
 🔗 Proyecto destacado:
 MiHucha
